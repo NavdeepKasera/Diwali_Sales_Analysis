@@ -1,6 +1,6 @@
 # Diwali_Sales_Analysis
-Files in the Project
-Diwali Sales Data.csv
+ In the Project
+Diwali Sales Data.csv file
 This is a CSV file containing raw sales data from Diwali.
 
 Diwali_Sales_Analysis.ipynb
